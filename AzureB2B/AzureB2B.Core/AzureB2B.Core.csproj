@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-AzureB2B.Core-343efba8-9f8a-4203-a06a-6be8a00a3790</UserSecretsId>
+    <UserSecretsId>aspnet-AzureB2B.Core-31b9567f-22d0-4104-b675-bab050dbcec6</UserSecretsId>
     <WebProject_DirectoryAccessLevelKey>1</WebProject_DirectoryAccessLevelKey>
   </PropertyGroup>
 
