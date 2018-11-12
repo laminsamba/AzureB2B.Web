@@ -14,7 +14,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace AzureB2B.Core
+namespace AzureB2B.core
 {
     public class Startup
     {

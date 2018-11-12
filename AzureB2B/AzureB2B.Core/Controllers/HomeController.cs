@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using AzureB2B.Core.Models;
+using AzureB2B.core.Models;
 
-namespace AzureB2B.Core.Controllers
+namespace AzureB2B.core.Controllers
 {
     [Authorize]
     public class HomeController : Controller

@@ -1,6 +1,6 @@
 using System;
 
-namespace AzureB2B.Core.Models
+namespace AzureB2B.core.Models
 {
     public class ErrorViewModel
     {
